@@ -1,3 +1,4 @@
 # Astroneer-Resource-Tracker
-Just a simple resource tracker for Astroneer
-This is just upadtes for astroneer for keeping track of resources
+Made by SkyLightFox
+Description: Just a simple resource tracker for Astroneer
+- Please make sure to say I built this.
